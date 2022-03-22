@@ -52,7 +52,7 @@
 
 ------
 
-This is a simple project that includes two jupyter files ([a notebook for analaysis of Smiles (under development)](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb) & [a notebook of Reservoir Sampling of Smiles](https://github.com/aurimas13/Smiles/blob/main/Smiles_reservoir_sampling.ipynb)) where data files are ignored from repo. A few functions in [this](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb) are written to get the tendiousness out of the way.
+This is a simple project that includes two jupyter files for the analysis of Smiles ([an in-depth one that is under development](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb) & [the other of reservoir sampling](https://github.com/aurimas13/Smiles/blob/main/Smiles_reservoir_sampling.ipynb)) where data files are ignored from repo. A few functions in [this](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb) are written to get the tendiousness out of the way.
     
 RDkit is a Python package that contains a lot of great functions for visualizing small molecules and interpretting SMILES strings. You can even use RDkit to see if a SMILES string is valid. This function is really useful for training generative networks or reinforcement learning agents! Clich [here](https://www.rdkit.org/docs/GettingStartedInPython.html) to read RDKit documentation while molecular descriptor methods can be found [here](https://www.rdkit.org/docs/source/rdkit.Chem.Descriptors.html). This information is dupicated when reading the [this jupyter](https://github.com/aurimas13/Smiles/blob/main/Smiles_v1.ipynb) notebook.
 
