@@ -31,6 +31,7 @@ The folder includes [**logo**](hhttps://github.com/aurimas13/Smiles/blob/main/Pu
 
 [LICENSE](https://github.com/aurimas13/Smiles/blob/main/LICENSE)
 
+<<<<<<< HEAD
 
 
     
@@ -38,3 +39,5 @@ The folder includes [**logo**](hhttps://github.com/aurimas13/Smiles/blob/main/Pu
 
 
 
+=======
+>>>>>>> 16fdb21a11600549bdcb3ccd41ee27403ae4f8cc
