@@ -7,7 +7,7 @@
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Chemical-analysis/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
-  <a href="https://twitter.com/AANausedas"><img alt="twitter" src=https://img.shields.io/twitter/follow/AANausedas?style=social"/></a>
+  <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
 </p>
 
 ------
@@ -30,4 +30,3 @@ The folder includes [**logo**](hhttps://github.com/aurimas13/Smiles/blob/main/Pu
 # License
 
 [LICENSE](https://github.com/aurimas13/Smiles/blob/main/LICENSE)
-
