@@ -25,7 +25,7 @@ RDkit is a Python package that contains a lot of great functions for visualising
 
 # Public
 
-The folder includes [**logo**](hhttps://github.com/aurimas13/Smiles/blob/main/Public/happiness.jpeg) while additional files removed through to save space.
+The folder includes [**logo**](https://github.com/aurimas13/Smiles/blob/main/Public/happiness.jpeg) while additional files removed through to save space.
     
 # License
 
