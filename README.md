@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/Smiles/blob/main/Public/happiness.jpeg"/>
 </p>
