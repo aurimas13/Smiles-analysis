@@ -7,7 +7,7 @@
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Smiles/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
-  <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
+  <a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
 </p>
 
 ------
